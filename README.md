@@ -49,16 +49,29 @@ The server, client UI, and message-handling logic are separated into different c
 
 FIRST PAGE :
 
-<img width="290" height="148" alt="Screenshot 2025-11-25 at 9 41 36 PM" src="https://github.com/user-attachments/assets/ee98f4eb-1cd9-476d-978b-fd510f2d2dcb" />
+  <img width="290" height="148" alt="Screenshot 2025-11-25 at 9 41 36 PM" src="https://github.com/user-attachments/assets/ee98f4eb-1cd9-476d-978b-fd510f2d2dcb" />
+
+
+  
 
 
 <img width="637" height="671" alt="Screenshot 2025-11-25 at 9 42 11 PM" src="https://github.com/user-attachments/assets/c7577fab-475a-4f34-9838-ad189fbf022c" />
 
 MEMBERS INFO : 
 
+
+
+
 <img width="640" height="667" alt="Screenshot 2025-11-25 at 9 43 21 PM" src="https://github.com/user-attachments/assets/e628a63f-c04f-4ba9-b040-d882657668f3" />
 
-CHATS : <img width="634" height="671" alt="Screenshot 2025-11-25 at 9 45 30 PM" src="https://github.com/user-attachments/assets/033c6e5b-fb5f-4c73-968e-15e4512c58fb" />
+
+
+
+CHATS : 
+
+
+
+<img width="634" height="671" alt="Screenshot 2025-11-25 at 9 45 30 PM" src="https://github.com/user-attachments/assets/033c6e5b-fb5f-4c73-968e-15e4512c58fb" />
 
 
 
